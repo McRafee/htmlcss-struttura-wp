@@ -134,3 +134,31 @@ h6 {
 .widget li {
     list-style-type:none;
 }
+/* footer */
+.footer {
+    width: 70%;
+    height: 100px;
+    margin: 0 auto;
+    padding-top: 5px;
+    border-radius: 3px;
+    background-color: white;
+    text-align: center;
+}
+
+.footer small {
+    color: #666666;
+}
+
+.footertext {
+    border-bottom: 1px solid #666666;
+}
+
+.social {
+    color: #666666;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.fab {
+    padding: 0 100px;
+}
